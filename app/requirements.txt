@@ -3,3 +3,5 @@ torch
 transformers
 pillow
 opencv-python
+opencv-python-headless==4.9.0.80
+streamlit==1.32.0
