@@ -1,1 +1,1 @@
-opencv
+libgl1-mesa-glx
