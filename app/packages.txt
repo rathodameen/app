@@ -4,3 +4,7 @@ streamlit
 Pillow
 opencv-python
 libopencv-dev
+opencv
+python3-opencv
+libglib2.0-0
+libxrender1
